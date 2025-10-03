@@ -1,10 +1,14 @@
 # Mohammad Hossein Ghaforian — Portfolio
 
-Plain HTML/CSS/JS portfolio with sections: Home, About, Experience, Teaching, Projects, Contact.
-- Contact shows **email + GitHub only**.
-- Projects are JSON-driven (see `<script id="projects-data">` in `index.html`).
-- CV downloads from `assets/CV.pdf`.
+A fast, minimal **HTML/CSS/JS** portfolio featuring clear sections, keyboard-friendly navigation, and zero build steps.  
+Live demo: https://ghaf0o0rr.github.io/
 
-## Publish on GitHub Pages
-1. Create a public repo and push these files.
-2. Settings → Pages → Deploy from a branch → `main` / root.
+## ✨ What’s inside
+- **Sections**: Home, About, Experience, Teaching, Projects, Contact
+- **Contact**: email + GitHub 
+- **Projects**: defined once in a small JSON block 
+- **CV**: downloadable at `assets/CV.pdf`
+- **Responsive + accessible**: mobile nav, semantic landmarks, focusable links
+
+
+
